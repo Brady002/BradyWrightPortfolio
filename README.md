@@ -8,7 +8,6 @@ Portfolio of some of the projects I've worked on.
 <h2>Here are some of my favorite projects:</h2>
 
 <ul>
-  <li>Placeholder</li>
-  <li>Placeholder</li>
-  <li>Placeholder</li>
+  <li><h3><a href="https://github.com/Brady002/Hardlight">Hardlight</a></h3></li>
+  <li><h3><a href="https://github.com/BerxtonChapsticks/FortuneFire">Fortune Fire</a></h3></li>
 </ul>
