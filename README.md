@@ -36,7 +36,7 @@ Portfolio of some of the projects I've worked on.
     </ul>
   </li>
 
-  <li><h3><a href="[https://github.com/Brady002/Factory-Reset](https://github.com/Brady002/Interactive-Audio-Visualizer)">Interactive Audio Visualizer</a></h3>
+  <li><h3><a href="https://github.com/Brady002/Interactive-Audio-Visualizer">Interactive Audio Visualizer</a></h3>
     <ul>
       <li>Summary: An interactive experience designed for the Luminary at Boise State. It also works on devices with click inputs.</li>
       <li>Role: Designed everything.</li>
