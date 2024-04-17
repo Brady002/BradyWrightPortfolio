@@ -5,6 +5,9 @@ Portfolio of some of the projects I've worked on.
 
 <p>I currently do a lot of game development in my free time. My hope is that my skills can catch the eye of any studio that hopes to make use of my creativity.<p>
 
+<h2>Demo Reel</h2>
+<a href="https://www.youtube.com/watch?v=bsLLAJh0K7o">Demo Reel</a>
+
 <h2>Here are some of my favorite projects that I have worked on:</h2>
 
 <ul>
